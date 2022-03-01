@@ -1,0 +1,7 @@
+*
+!.gitignore
+!static/
+!static/*
+!**/.keep
+!*.md
+!*.mdx
